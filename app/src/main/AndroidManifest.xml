@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ReelsTest">
 
-        <provider android:authorities="com.facebook.app.FacebookContentProvider556214469558408"
+        <provider android:authorities="com.facebook.app.FacebookContentProvider<YOUR_APP_ID>"
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true" />
 
